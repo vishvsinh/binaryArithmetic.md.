@@ -1,5 +1,5 @@
 # binaryArithmetic.md.
-[pratice01/) | [Binary Arithmetic](../docs/binaryArithmetic.md)
+[pratice01/) | [Binary Arithmetic])
 
 # Binary Arithmetic
 
