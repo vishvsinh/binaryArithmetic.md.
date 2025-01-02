@@ -162,22 +162,4 @@ Divisor = 1011(11 decimal) and Dividend = 10010011 (147 decimal)
       00001111    Partial remainder
     - 00001011
       --------
-           100    Remainder
-
-Answer(decimal) = 13 remainder 4 
-```
-
-## Fraction and Floating point number representation
-
-(this is for interest but more complex than foundation computing requires)
-
-For very large or very small numbers, we usually want to use scientific notation to avoid having unfeasibly large numbers of bits. 
-
-[Tom Finley 2000 Tutorial on binary floating point](https://www.cs.cornell.edu/~tomf/notes/cps104/floating.html) explains a commonly used  IEEE 754 floating-point standard.
-
-In this case we can use 32 bits to represent a positive or negative number in the range ±1.18×10^−38 to ±3.4×10^38
-
-| Sign | Exponent |  Mantissa |
-|:---- |:---------|:----------|
-|1 bit |8 bits    |23 bits    |  
-|X     |XXXXXXXX  |XXXXXXXXXXXXXXXXXXXXXXX|
+           100 
